@@ -1,0 +1,49 @@
+//IBM Cloud Discovery User name :
+
+var discoveryUsername = "insert here !!!";
+
+//IBM Cloud Discovery Password :
+
+var discoveryPassword = "insert here !!!";
+
+//IBM Cloud Discovery Collection ID :
+
+var discoveryCollectionID = "insert here !!!";
+
+//IBM Cloud Discovery Environment ID :
+
+var discoveryEnvironmentID = "insert here !!!";
+
+
+//IBM Cloud Conversation User Name :
+
+var conversationUserName = "insert here !!!";
+
+//IBM Cloud Conversation Password : 
+
+var conversationPassword = "insert here !!!";
+
+//IBM Cloud Conversation WorkSpade ID :
+
+var conversationWorkspaceID = "insert here !!!";
+
+
+//Your Email :
+
+var eMail = "insert here !!!";
+
+//Slack Bot Token :
+
+var slackToken = "insert here !!!";
+
+//Cloudant Password :
+
+var cloudantPassword = "insert here !!!";
+
+//Google OAuth Client ID :
+
+var googleClientID = "insert here !!!";
+
+//Google OAuth Password :
+
+var googlePassword = "insert here !!!";
