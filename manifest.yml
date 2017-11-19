@@ -1,7 +1,3 @@
-declared-services:
-  bluemix-avi-workshop-cloudantNoSQLDB:
-    label: cloudantNoSQLDB
-    plan: Lite
 applications:
 - path: .
   memory: 512M
@@ -9,6 +5,10 @@ applications:
   domain: mybluemix.net
   name: bluemix-avi-workshop
   disk_quota: 1024M
+declared-services:
+  bluemix-avi-workshop-cloudantNoSQLDB:
+    label: cloudantNoSQLDB
+    plan: Lite
   services:
   - bluemix-avi-workshop-cloudantNoSQLDB
   env:
